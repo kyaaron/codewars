@@ -10,3 +10,4 @@ As I continue to get used to a certain level of difficulty, I will increase the 
 - I'm getting used to chaining methods together and solving problems using less lines of code (it's not always the best way, but it's stretching my imagination for how a problem can be solved in as little code as possible)
 - `num.toString(2)` is a great way to turn a base 10 number into binary. It returns a string but you can use Number() on it to turn it back into a Number data type.
 - `Array.flat()` will flatten out multidementional arrays, which makes it easier to loop through every item.
+- `Arra.reduce(acc, ele)` is useful for looping through contents of an array and reducing `ele` values into one `acc` value, like summing up all elements of an array.
